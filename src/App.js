@@ -8,13 +8,13 @@ import Content from './components/ContentSection';
 function App() {
   return (
     <>
-    <Router>
-      <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-      </Routes>
-    </Router>
-    <Content />
+      <Router>
+        <Navbar />
+        <Routes>
+          <Route path="/MKZO_project" element={<Home />}/>
+        </Routes>
+        <Content />
+      </Router>
     </>
   );
 }

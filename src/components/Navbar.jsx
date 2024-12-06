@@ -7,7 +7,7 @@ function Navbar() {
     <>
       <nav className="navbar">
           <div className="navbar-container">
-              <Link to="/" className="navbar-logo" >
+              <Link to="/MKZO_project" className="navbar-logo" >
               MKZO 
               </Link>
           </div>
