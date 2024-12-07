@@ -10,7 +10,7 @@ function ContentSection() {
             Tento projekt se zaměřuje na vytvoření bezpečné a efektivní komunikace mezi Asterisk PBX a Kamailio pomocí TLS a certifikátů.
             Hlavními cíli bylo zajistit bezpečnost, spolehlivost a jednoduchou konfiguraci.
           </p>
-          <a href="/files/project.zip" download className="content-button">
+          <a href={`${process.env.PUBLIC_URL}/files/project.zip`} download className="content-button">
             Stáhnout projekt (ZIP)
           </a>
         </div>
