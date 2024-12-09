@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MKZO_project/static/css/main.f4ed3cec.css",
-    "main.js": "/MKZO_project/static/js/main.5b2ce503.js",
+    "main.css": "/MKZO_project/static/css/main.9e65b314.css",
+    "main.js": "/MKZO_project/static/js/main.322b339a.js",
     "index.html": "/MKZO_project/index.html",
-    "main.f4ed3cec.css.map": "/MKZO_project/static/css/main.f4ed3cec.css.map",
-    "main.5b2ce503.js.map": "/MKZO_project/static/js/main.5b2ce503.js.map"
+    "main.9e65b314.css.map": "/MKZO_project/static/css/main.9e65b314.css.map",
+    "main.322b339a.js.map": "/MKZO_project/static/js/main.322b339a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4ed3cec.css",
-    "static/js/main.5b2ce503.js"
+    "static/css/main.9e65b314.css",
+    "static/js/main.322b339a.js"
   ]
 }
