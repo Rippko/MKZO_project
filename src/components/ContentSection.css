@@ -11,18 +11,37 @@
     max-width: 800px;
   }
   
-  .content-title {
+  h1, h2, h3 {
     font-size: 2.5rem;
     font-weight: bold;
     color: #333;
     margin-bottom: 20px;
   }
+
   
-  .content-description {
+  p {
     font-size: 1.2rem;
     color: #555;
     line-height: 1.8;
     margin-bottom: 30px;
+  }
+
+  li {
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.8;
+    margin-bottom: 30px;
+    text-align: left;
+  }
+
+  pre {
+    font-size: 1rem;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    text-align: left;
+    color: black;
   }
   
   .content-button {
